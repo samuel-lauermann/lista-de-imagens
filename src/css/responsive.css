@@ -1,0 +1,15 @@
+@media(max-width:376px){
+
+    main{
+        width: 375px;
+    }
+
+    .pinturas{
+        flex-wrap: wrap;
+        gap: 0;
+        width: 335px;
+        height: 1724px;
+        margin-right: 8px;
+    }
+
+}
